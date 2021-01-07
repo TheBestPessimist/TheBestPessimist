@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Programmer. Drinker. Android tinkerer. Tech enthusiast. 
 
-Knows more keyboard shortcuts than you.
+Knows more keyboard shortcuts than you. Knows more AutoHotkey than you.
 
 Gamer. PC Master Race. Not a console peasant.
 
