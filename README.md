@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-Programmer. Drinker. Android tinkerer. Tech enthusiast. 
+Developer. Drinker. Tinkerer. Tech enthusiast. 
 
 Knows more keyboard shortcuts than you. Knows more AutoHotkey than you.
 
